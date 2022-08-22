@@ -1,0 +1,4 @@
+numpy
+cryptography
+bitstring
+opencv-python
